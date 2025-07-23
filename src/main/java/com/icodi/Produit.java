@@ -1,7 +1,5 @@
 package com.icodi;
 
-import java.util.Scanner;
-
 /**
  * Classe représentant un produit dans le stock
  * Cette classe encapsule les données d'un produit avec des attributs privés
