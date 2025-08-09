@@ -66,8 +66,6 @@ Fonctionnalités :
 <br/>
 <img src="Captures/liste-produits.png">
 <br>
-<img src="Captures/produits.png">
-
 
 
 
