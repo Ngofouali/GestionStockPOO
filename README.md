@@ -38,5 +38,38 @@
 <strong><span>Classe Produit</span></strong>
 <br/>
 <img src="Captures/Classe-Produit.png">
+<br/>
+Caractéristiques :
+<ul>
+<li>Encapsulation complète avec getters/setters</li>
+<li>Constructeurs (avec paramétres et par défaut)</li>
+<li>Méthode calculerValeurTotale() pour la logique métier</li>
+<li>Redéfinition de toString() pour un affichage optimisé</li>
+</ul>
+<br/>
+<strong><span>Classe StockManager</span></strong>
+<img src="Captures/stockmanager.png">
+<br/>
+Fonctionnalités :
+<ul>
+<li>Gestion statique du tableau de produits</li>
+<li>Méthodes CRUD (Create, Read, Update, Delete)</li>
+<li>Interface utilisateur interactive avec menuValidation et gestion d'erreurs robustes</li>
+</ul>
+<br/>
+<h2>📱 Interface Utilisateur</h2>
+<img src="Captures/ecran-principal.png">
+<br/>
+<h2>Scénarios de Test</h2>
+<br/>
+<img src="Captures/ajout-produit.png">
+<br/>
+<img src="Captures/liste-produits.png">
+<br>
+<img src="Captures/produits.png">
+
+
+
+
 
 
